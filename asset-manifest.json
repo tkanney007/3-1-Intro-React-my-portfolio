@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/3-1-Intro-React-my-portfolio/static/css/main.b243945f.css",
+    "main.js": "/3-1-Intro-React-my-portfolio/static/js/main.640c0de8.js",
+    "static/media/gobills.png": "/3-1-Intro-React-my-portfolio/static/media/gobills.4cf35e76c683e35c7568.png",
+    "index.html": "/3-1-Intro-React-my-portfolio/index.html",
+    "main.b243945f.css.map": "/3-1-Intro-React-my-portfolio/static/css/main.b243945f.css.map",
+    "main.640c0de8.js.map": "/3-1-Intro-React-my-portfolio/static/js/main.640c0de8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b243945f.css",
+    "static/js/main.640c0de8.js"
+  ]
+}
